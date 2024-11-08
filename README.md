@@ -280,6 +280,16 @@ int main()
 }
 ```
 
+# Outout:
+
+a.<BR>![image](https://github.com/user-attachments/assets/42badc03-3499-4f70-9c7c-c19135c22785)<BR>
+b.<BR>![image](https://github.com/user-attachments/assets/dda95f53-794b-4ade-b014-6f7c10b445b7)<BR>
+c.<BR>![image](https://github.com/user-attachments/assets/20bc6c19-13b6-4492-aaf4-3f4bc5264f49)<BR>
+d.<br>![image](https://github.com/user-attachments/assets/1eaf0a36-93b1-49fd-acd6-6c39e759442f)<Br>
+e.<br>![image](https://github.com/user-attachments/assets/228aa867-334b-41a1-a0d7-fb2630214274)<br>
+f.<br>![image](https://github.com/user-attachments/assets/54708ecf-79d0-489a-aa75-59fd3af2e9be)<br>
+
+
 # Conclusion:
 
 → We learnt about constructors and deconstructors in C++.
